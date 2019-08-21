@@ -1,0 +1,2 @@
+git reset --hard HEAD^ 退回上一个版本
+git log 查看提交历史
